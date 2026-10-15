@@ -1,0 +1,199 @@
+[
+  {
+    "file": "ColaManager-Test.shortcut",
+    "sha256": "b3c3bad773a8b2680af3dbcbd4202b4234cb66a63e768f218b328ac0acb79c9e",
+    "name": null,
+    "actions": 1,
+    "action_types": {
+      "is.workflow.actions.showresult": 1
+    },
+    "archive_decoded_with_embedded_public_key": true,
+    "matches_unsigned_source": true,
+    "findings": [],
+    "network_actions": [],
+    "minimum_client_metadata": 900,
+    "workflow_types": [
+      "NCWidget"
+    ]
+  },
+  {
+    "file": "ColaManager.shortcut",
+    "sha256": "8d341a79afce07c29ca2bbb82fb83bfea479e44a9771544c4b9fac313771fd8b",
+    "name": null,
+    "actions": 1158,
+    "action_types": {
+      "is.workflow.actions.comment": 1,
+      "is.workflow.actions.setvariable": 351,
+      "is.workflow.actions.date": 12,
+      "is.workflow.actions.conditional": 293,
+      "is.workflow.actions.gettext": 57,
+      "is.workflow.actions.text.split": 4,
+      "is.workflow.actions.choosefromlist": 3,
+      "is.workflow.actions.documentpicker.open": 16,
+      "is.workflow.actions.file.createfolder": 2,
+      "is.workflow.actions.file.select": 1,
+      "is.workflow.actions.text.replace": 15,
+      "is.workflow.actions.detect.dictionary": 12,
+      "is.workflow.actions.alert": 5,
+      "is.workflow.actions.showresult": 58,
+      "is.workflow.actions.output": 56,
+      "is.workflow.actions.format.date": 28,
+      "is.workflow.actions.setvalueforkey": 38,
+      "is.workflow.actions.getvalueforkey": 31,
+      "is.workflow.actions.math": 34,
+      "is.workflow.actions.round": 4,
+      "is.workflow.actions.adjustdate": 33,
+      "is.workflow.actions.number": 29,
+      "is.workflow.actions.repeat.each": 2,
+      "is.workflow.actions.gettimebetweendates": 11,
+      "is.workflow.actions.setitemname": 23,
+      "is.workflow.actions.documentpicker.save": 23,
+      "is.workflow.actions.repeat.count": 4,
+      "is.workflow.actions.getitemfromlist": 1,
+      "is.workflow.actions.notification": 3,
+      "is.workflow.actions.addnewreminder": 1,
+      "is.workflow.actions.ask": 2,
+      "is.workflow.actions.text.match": 2,
+      "is.workflow.actions.exit": 3
+    },
+    "archive_decoded_with_embedded_public_key": true,
+    "matches_unsigned_source": true,
+    "findings": [],
+    "network_actions": [],
+    "minimum_client_metadata": 900,
+    "workflow_types": [
+      "NCWidget"
+    ]
+  },
+  {
+    "file": "可乐截止检查.shortcut",
+    "sha256": "f5904eaa836fc1c7a7ce66365629b160720743b298525dc461cb0258d449ebe9",
+    "name": null,
+    "actions": 3,
+    "action_types": {
+      "is.workflow.actions.gettext": 1,
+      "is.workflow.actions.setvariable": 1,
+      "is.workflow.actions.runworkflow": 1
+    },
+    "archive_decoded_with_embedded_public_key": true,
+    "matches_unsigned_source": true,
+    "findings": [],
+    "network_actions": [],
+    "minimum_client_metadata": 900,
+    "workflow_types": [
+      "NCWidget"
+    ]
+  },
+  {
+    "file": "可乐每周报告.shortcut",
+    "sha256": "fe8bd204d920f9e4a6a49b1a1a1312f01af0cbc1d4aca17f4d80bb68c0d702dd",
+    "name": null,
+    "actions": 3,
+    "action_types": {
+      "is.workflow.actions.gettext": 1,
+      "is.workflow.actions.setvariable": 1,
+      "is.workflow.actions.runworkflow": 1
+    },
+    "archive_decoded_with_embedded_public_key": true,
+    "matches_unsigned_source": true,
+    "findings": [],
+    "network_actions": [],
+    "minimum_client_metadata": 900,
+    "workflow_types": [
+      "NCWidget"
+    ]
+  },
+  {
+    "file": "可乐睡前提醒.shortcut",
+    "sha256": "41bb5590da7ffda7189baa58c3230093f364c7ef378394e320236152b78dc27a",
+    "name": null,
+    "actions": 1,
+    "action_types": {
+      "is.workflow.actions.notification": 1
+    },
+    "archive_decoded_with_embedded_public_key": true,
+    "matches_unsigned_source": true,
+    "findings": [],
+    "network_actions": [],
+    "minimum_client_metadata": 900,
+    "workflow_types": [
+      "NCWidget"
+    ]
+  },
+  {
+    "file": "我已经刷牙.shortcut",
+    "sha256": "8ba867dabab18bd02a06e38272c610a3eb2b4731b964656c9d62b056db5ac184",
+    "name": null,
+    "actions": 3,
+    "action_types": {
+      "is.workflow.actions.gettext": 1,
+      "is.workflow.actions.setvariable": 1,
+      "is.workflow.actions.runworkflow": 1
+    },
+    "archive_decoded_with_embedded_public_key": true,
+    "matches_unsigned_source": true,
+    "findings": [],
+    "network_actions": [],
+    "minimum_client_metadata": 900,
+    "workflow_types": [
+      "NCWidget"
+    ]
+  },
+  {
+    "file": "我已经漱口.shortcut",
+    "sha256": "e81a60599d5440bedc9afbe183ae36bff416ed9d27a9b88ffeb764273dec2547",
+    "name": null,
+    "actions": 3,
+    "action_types": {
+      "is.workflow.actions.gettext": 1,
+      "is.workflow.actions.setvariable": 1,
+      "is.workflow.actions.runworkflow": 1
+    },
+    "archive_decoded_with_embedded_public_key": true,
+    "matches_unsigned_source": true,
+    "findings": [],
+    "network_actions": [],
+    "minimum_client_metadata": 900,
+    "workflow_types": [
+      "NCWidget"
+    ]
+  },
+  {
+    "file": "我要喝可乐.shortcut",
+    "sha256": "e4ccf2e1486e9058b39d8dbdf039a004d5f22678620e2f4a36f3c17ef164a792",
+    "name": null,
+    "actions": 3,
+    "action_types": {
+      "is.workflow.actions.gettext": 1,
+      "is.workflow.actions.setvariable": 1,
+      "is.workflow.actions.runworkflow": 1
+    },
+    "archive_decoded_with_embedded_public_key": true,
+    "matches_unsigned_source": true,
+    "findings": [],
+    "network_actions": [],
+    "minimum_client_metadata": 900,
+    "workflow_types": [
+      "NCWidget"
+    ]
+  },
+  {
+    "file": "查看可乐统计.shortcut",
+    "sha256": "3d34893f4b10d4515656cd94dbc66e007ebc7a5045b7126ea4fdf5eeeeae786c",
+    "name": null,
+    "actions": 3,
+    "action_types": {
+      "is.workflow.actions.gettext": 1,
+      "is.workflow.actions.setvariable": 1,
+      "is.workflow.actions.runworkflow": 1
+    },
+    "archive_decoded_with_embedded_public_key": true,
+    "matches_unsigned_source": true,
+    "findings": [],
+    "network_actions": [],
+    "minimum_client_metadata": 900,
+    "workflow_types": [
+      "NCWidget"
+    ]
+  }
+]

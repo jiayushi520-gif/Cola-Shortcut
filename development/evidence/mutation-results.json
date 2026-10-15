@@ -1,0 +1,32 @@
+[
+  {
+    "case": "first native consumption and JSON readback",
+    "passed": true,
+    "record_id": "237bfaeb-4302-4922-8d2a-d6bddf1bacb3"
+  },
+  {
+    "case": "我要喝可乐 duplicate",
+    "passed": true,
+    "output": "本周已经登记饮用一瓶，额度已用完，不允许重复登记。"
+  },
+  {
+    "case": "我已经漱口 update",
+    "passed": true,
+    "output": "打卡已保存：2026-10-15T16:53:04+08:00"
+  },
+  {
+    "case": "我已经漱口 duplicate",
+    "passed": true,
+    "output": "这条记录已打卡，不重复计数：2026-10-15T16:46:59+08:00"
+  },
+  {
+    "case": "我已经刷牙 update",
+    "passed": true,
+    "output": "打卡已保存：2026-10-15T16:53:40+08:00"
+  },
+  {
+    "case": "我已经刷牙 duplicate",
+    "passed": true,
+    "output": "这条记录已打卡，不重复计数：2026-10-15T16:46:59+08:00"
+  }
+]

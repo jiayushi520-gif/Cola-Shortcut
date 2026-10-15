@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+work/
+dist/
+outputs/
+archives/
+state.json
+state.backup.json
+state.pending.json

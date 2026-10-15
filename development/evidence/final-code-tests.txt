@@ -1,0 +1,40 @@
+PASS 空历史分母不适用
+PASS 首次饮用立即用完额度
+PASS 同周重复记录拒绝解析
+PASS 正常漱口
+PASS 正常刷牙
+PASS 截止前不得判违规
+PASS 到截止时未刷牙
+PASS 下周禁喝
+PASS 禁喝一周后恢复且不累计
+PASS 周日饮用周一凌晨刷牙
+PASS 截止瞬间刷牙有效
+PASS 超时补打卡不撤销处罚
+PASS 重复读取不会重复计数
+PASS 缺失JSON拒绝
+PASS 损坏JSON拒绝
+PASS 缺少字段拒绝
+PASS 未来打卡拒绝
+PASS 跨年自然周
+PASS 连续多个空周合规
+PASS 历史统计违规重置连续
+PASS 最近12周趋势
+✔ tests/core.test.js (44.697625ms)
+PASS unavailable widget {"bookmark":false}
+PASS unavailable widget {"missing":true}
+PASS unavailable widget {"raw":"{broken"}
+PASS unavailable widget {"raw":"{}"}
+PASS unavailable widget {"downloadFails":true}
+PASS widget layout mock small light
+PASS widget layout mock small dark
+PASS widget layout mock medium light
+PASS widget layout mock medium dark
+✔ tests/widget.test.js (76.9885ms)
+ℹ tests 2
+ℹ suites 0
+ℹ pass 2
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 84.668792

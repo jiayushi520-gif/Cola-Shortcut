@@ -1,0 +1,56 @@
+[
+  {
+    "name": "ColaManager",
+    "exit_code": 0,
+    "stdout": "",
+    "stderr": "ERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\nERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\nERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\nERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\nERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\n"
+  },
+  {
+    "name": "ColaManager-Test",
+    "exit_code": 0,
+    "stdout": "",
+    "stderr": "ERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\nERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\nERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\nERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\nERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\n"
+  },
+  {
+    "name": "我要喝可乐",
+    "exit_code": 0,
+    "stdout": "",
+    "stderr": "ERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\nERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\nERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\nERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\nERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\n"
+  },
+  {
+    "name": "我已经漱口",
+    "exit_code": 0,
+    "stdout": "",
+    "stderr": "ERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\nERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\nERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\nERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\nERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\n"
+  },
+  {
+    "name": "我已经刷牙",
+    "exit_code": 0,
+    "stdout": "",
+    "stderr": "ERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\nERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\nERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\nERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\nERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\n"
+  },
+  {
+    "name": "查看可乐统计",
+    "exit_code": 0,
+    "stdout": "",
+    "stderr": "ERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\nERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\nERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\nERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\nERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\n"
+  },
+  {
+    "name": "可乐每周报告",
+    "exit_code": 0,
+    "stdout": "",
+    "stderr": "ERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\nERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\nERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\nERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\nERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\n"
+  },
+  {
+    "name": "可乐截止检查",
+    "exit_code": 0,
+    "stdout": "",
+    "stderr": "ERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\nERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\nERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\nERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\nERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\n"
+  },
+  {
+    "name": "可乐睡前提醒",
+    "exit_code": 0,
+    "stdout": "",
+    "stderr": "ERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\nERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\nERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\nERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\nERROR: Unrecognized attribute string flag '?' in attribute string \"T@\"NSString\",?,R,C\" for property debugDescription\n"
+  }
+]

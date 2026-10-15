@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-15",
+  "text_files_scanned": 43,
+  "categories": [
+    "private_path",
+    "credential",
+    "email",
+    "private_server",
+    "phone",
+    "auth_literal"
+  ],
+  "findings": [],
+  "signed_binary_audit": "signed-file-audit.json",
+  "scope": "Curated publication only; no private full recovery archive."
+}

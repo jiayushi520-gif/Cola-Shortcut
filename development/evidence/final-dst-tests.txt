@@ -1,0 +1,12 @@
+PASS DST calendar week 2026-03-02T00:00:00-05:00 167h
+PASS DST calendar week 2026-10-26T00:00:00-04:00 169h
+PASS DST overnight brushing
+✔ tests/dst.test.js (52.1035ms)
+ℹ tests 1
+ℹ suites 0
+ℹ pass 1
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 62.199375
